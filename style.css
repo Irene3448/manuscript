@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1 {
+	font-family:"raleway";
+	font-size: 48px
+	color: black;
+}
+
+body{
+	font-family: "Roboto", serif;
+	font-size: 20px;
+	padding: 24px;
+}
+
+h2{
+	color:brown;
+	font-size: 35px;
+}
+
+p{
+	max-width: 65ch;
+}
+
+.introduction-paragraph 
+
+}
