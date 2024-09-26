@@ -5,21 +5,21 @@
 
 h1 {
 	font-family:"raleway";
-	font-size: 3.5em;
+	font-size: 55px;
 	font-weight: bold;
 	margin-bottom: 50px;
 	color: black;
 	line-height: 1.3;
 }
 
-hgroup{
-	margin-bottom: 150px
+header{
+	margin-bottom: 130px
 }
 
 
 body{
 	font-family: "public sans";
-	font-size: 1em;
+	font-size: 18px;
 	padding: 100px 100px 100px 100px;
 	line-height: 1.5;
 	max-width: 155ch;
@@ -31,7 +31,7 @@ em{ font-style: italic;}
 
 h2{
 	font-family: "raleway";
-	font-size: 1.8em;
+	font-size: 30px;
 	font-weight: bold;
 	margin-top: 50px;
 	margin-bottom: 20px;
@@ -40,7 +40,7 @@ h2{
 
 h3{
 	font-family: "raleway";
-	font-size: 1.2em;
+	font-size: 20px;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
@@ -51,54 +51,41 @@ p{
 }
 
 .author-info{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: 500;
 	color:#999999;
 }
 
 #black{
-	background: black;
-	color: white;
-	max-width: 55ch;
+	color: rgb(60, 60, 60);
 }
 
 #white{
-	background: #999999;
-	color: white;
-	max-width: 55ch;
+	color: rgb(184, 184, 184);
 }
 
 #yellow{
-	background: yellow;
-	max-width: 55ch;
+	color: rgb(255, 204, 0);
 }
 
 #orange{
-	background-color: orange;
-	color: white;
-	max-width: 55ch;
+	color: orange;
 }
 
 #red{
-	background: red;
-	color: white;
-	max-width: 55ch;
+	color: red;
 }
 
 #green{
-	background: green;
-	color: white;
-	max-width: 55ch;
+	color: green;
 }
 
 #blue{
-	background: blue;
-	color: white;
-	max-width: 55ch;
+	color: blue;
 }
 
 #purple{
-	background: purple;
-	color: white;
-	max-width: 55ch;
+	color: purple;
 }
 
 }
