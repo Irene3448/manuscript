@@ -27,7 +27,7 @@ h1 {
 body{
 	font-family: "public sans";
 	font-size: 18px;
-	line-height: 1.6;
+	line-height: 1.6em;
 	max-width: 160ch;
 	margin-bottom: 150px;
 }
@@ -36,10 +36,12 @@ body{
 em{ font-style: italic;}
 
 a{
-	color:rgb(0, 151, 151);
 	text-decoration: underline;
 }
 
+a:hover{
+	color: rgb(0,151,151)
+}
 
 h2{
 	font-family: "raleway";
@@ -65,6 +67,7 @@ p{
 .author-info{
 	font-family:Arial, Helvetica, sans-serif;
 	font-weight: 500;
+	line-height: 10px;
 	color:white;
 }
 
