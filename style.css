@@ -3,6 +3,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+header {
+	background-color:rgb(238, 238, 238);
+	padding: 5em;
+	margin-bottom: 50px;
+}
+
+article {
+	padding-left: 5em;
+}
+
 h1 {
 	font-family:"raleway";
 	font-size: 55px;
@@ -12,17 +23,13 @@ h1 {
 	line-height: 1.3;
 }
 
-header{
-	margin-bottom: 130px
-}
-
 
 body{
 	font-family: "public sans";
 	font-size: 18px;
-	padding: 100px 100px 100px 100px;
-	line-height: 1.5;
-	max-width: 155ch;
+	line-height: 1.6;
+	max-width: 160ch;
+	margin-bottom: 150px;
 }
 
 
