@@ -98,17 +98,33 @@ footer{
 	margin-bottom: 50px;
 }
 
-.column h2{
+.col-head {
+	position: sticky;
+	width: 100%;
+	left: 30px;
+	top: 30px;
+}
+
+.column h2 {
 	margin-top: 8px;
+	position: sticky;
+	width: 100%;
+	left: 30px;
+	top: 30px;
 }
 
 .column h3{
 	margin-top: 25px;
+	position: sticky;
+	width: 100%;
+	left: 30px;
+	top: 30px;
 }
 
 .content {
 	margin-top: 15px;
 }
+
 
 #top {
 	font-family: "raleway";
