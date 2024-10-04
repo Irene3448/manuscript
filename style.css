@@ -22,11 +22,12 @@ h1 {
 #l3{color:green;}
 #l4{color: mediumblue;}
 #l5{color:blueviolet;}
-#l6{color:coral}
-#l7{color:cornflowerblue;}
-#l8{color:limegreen;}
-#l9{color:orchid;}
-#l10{color:darkcyan;}
+#l6{color:crimson;}
+#l7{color:darkorange;}
+#l8{color:green;}
+#l9{color: mediumblue;}
+#l10{color:blueviolet;}
+
 
 body{
 	font-family: "public sans";
@@ -166,6 +167,7 @@ footer{
 #response{
 	border-top: 2px dotted darkslategray;
 	padding-top: 40px;
+	color: darkslategray;
 }
 
 
