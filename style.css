@@ -171,40 +171,32 @@ footer{
 
 #black{
 	color: black;
-	/* border-top: 3px solid rgb(60,60,60); */
 }
 
 #white{
 	color: darkgray;
-	/* border-top: 3px solid darkgray; */
 }
 
 #yellow{
 	color: goldenrod;
-	/* border-top: 3px solid goldenrod; */
 }
 
 #orange{
 	color: darkorange;
-	/* border-top: 3px solid orange; */
 }
 
 #red{
 	color: crimson;
-	/* border-top: 3px solid red; */
 }
 
 #green{
 	color: green;
-	/* border-top: 3px solid green; */
 }
 
 #blue{
 	color: mediumblue;
-	/* border-top: 3px solid blue; */
 }
 
 #purple{
 	color: blueviolet;
-	/* border-top: 3px solid blueviolet; */
 }
